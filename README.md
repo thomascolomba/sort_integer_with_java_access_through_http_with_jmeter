@@ -18,5 +18,6 @@ A Jmeter scenario test doing a http GET request to servlet sorting ints. <br/>
 ![screenshot of http_request_default_parameters](https://github.com/thomascolomba/sort_integer_with_java_access_through_http_with_jmeter/blob/main/jmeter_http_request_parameters.png?raw=true) <br/>
 ![screenshot of http_request_parameters](https://github.com/thomascolomba/sort_integer_with_java_access_through_http_with_jmeter/blob/main/jmeter_http_request_parameters.png?raw=true) <br/>
 ![screenshot of http_response](https://github.com/thomascolomba/sort_integer_with_java_access_through_http_with_jmeter/blob/main/jmeter_http_response.png?raw=true) <br/>
-<img src="./jmeter_http_response.jpg" alt="screenshot of response"/>
-[img](././jmeter_http_response.jpg)
+<img src="./jmeter_http_response.jpg" alt="screenshot of response"/><br/>
+[img](./jmeter_http_response.jpg) <br/>
+[img](./jmeter_http_response.jpg?raw=true)<br/>
