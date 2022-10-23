@@ -14,5 +14,7 @@ A Jmeter scenario test doing a http GET request to servlet sorting ints. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&lt;stringProp name="HTTPSampler.domain"&gt;127.0.0.1&lt;/stringProp&gt; <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&lt;stringProp name="HTTPSampler.port"&gt;8080&lt;/stringPro&gt; <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&lt;stringProp name="HTTPSampler.protocol"&gt;http&lt;/stringProp&gt; <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;stringProp name="660830799"&gt;[3,6,8]&gt;/stringProp&gt; <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;stringProp name="Assertion.test_field"&gt;Assertion.response_data&gt;/stringProp&gt; <br/>
 <br/>
 
